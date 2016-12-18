@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 int main() {
 		
@@ -71,4 +72,9 @@ int main() {
 	     
 	puts("201606840034 - Marcus Davi Oliveira Castro -  http://lattes.cnpq.br/7588463252612568 \n");
 	puts("Meu mantra: Loucura é continuar fazendo sempre a mesma coisa e esperar resultados diferentes \n");
+	     
+	puts("201606840004 - Gustavo Damasceno da Silva - http://lattes.cnpq.br/3648859586476038);
+        puts("Meu mantra: Tenho um gato e preciso trabalhar para sustenta-lo. \n");
+
+     
 }
